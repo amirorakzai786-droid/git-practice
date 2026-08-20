@@ -1,2 +1,3 @@
 Chapter 01: Once a upon a time
 Chapter 02: Amir was learning DevOps from Claud Ai
+Chapter 03: The Journey Continues
